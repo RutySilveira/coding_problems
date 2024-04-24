@@ -10,7 +10,7 @@ public class SalarioComBonus {
 
     double salario_fixo, total_vendas, salario_final;
 
-    String nome = sc.next(); // Correção aqui: substituído 'scanner' por 'sc'
+    String nome = sc.next();
     salario_fixo = sc.nextDouble();
     total_vendas = sc.nextDouble();
 
