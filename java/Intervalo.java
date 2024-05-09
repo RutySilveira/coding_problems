@@ -9,7 +9,7 @@ public class Intervalo {
     double n = sc.nextDouble();
 
     if (n >= 0 && n <= 25) {
-      System.out.println("Intervalo (0,25]");
+      System.out.println("Intervalo [0,25]");
     } else if (n >= 25 && n <= 50) {
       System.out.println("Intervalo (25,50]");
     } else if (n >= 50 && n <= 75) {
